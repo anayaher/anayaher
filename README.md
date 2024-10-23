@@ -1,9 +1,7 @@
 # 💫 About Me:
 I am a passionate Flutter Developer with a strong foundation in mobile app development. I love creating beautiful, functional, and responsive apps that provide an exceptional user experience.<br><br>
 
-```
-socket.on('event', (data) => streamSocket.addResponse);
-```
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anay-aher-4a528b247/) 
